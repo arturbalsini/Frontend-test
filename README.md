@@ -1,26 +1,9 @@
-Teste para processo seletivo para desenvolvedor front-end da Editora Positivo.
+Ol· Boa tarde a todos !  =)
 
-Teste Front-End - Editora Positivo
-Usando a API da Marvel (https://developer.marvel.com), crie uma Single Page Application mostrando uma listagem dos personagens para o usu√°rio consultar. O usu√°rio tem que poder filtrar os personagens com base no nome, inicial ou data de modifica√ß√£o (ano), sendo que a sele√ß√£o de um filtro afeta o outro. A aplica√ß√£o tem que ser feita em AngularJS e fazer uso de pelo menos uma das diretivas padr√£o do framework. O layout (cores, √≠cones, imagens) fica a seu cargo.
+A soluÁ„o que encontrei com o conhecimento que tenho no momento(agradeÁo desde j· a oportunidade) e de uma forma simples, com pouca linhas de cÛdigo entregar uma soluÁ„o r·pida e interativa para tornar a experi~encia de uso a mais intuitiva possÌvel.
+Pensando nisso escolhi um layout clean com poucas funcionalidades entrega o necess·rio do solicitado. Apenas com campos para pesquisa e uma forma r·pida de achar/selecionar o heroi desejado e clicando para ver maiores detalhes em uma SPA r·pida e fluÌda.
 
-Observa√ß√£o: No arquivo README do projeto explique o funcionamento e a solu√ß√£o adotada na sua implementa√ß√£o do desafio.
+Espero que gostem e seja o necess·rio para fazer parte da equipe e aprender junto a vocÍs!
+Um grande abraÁo,
 
-Frameworks/Bibliotecas:
-
-* AngularJS
-* SASS ou LESS
-* Material Design
-
-Diferenciais:
-
-* Responsividade
-* Componentiza√ß√£o
-* Orienta√ß√£o a objeto
- Crit√©rios:
-
-* Performance
-* Usabilidade
-* Criatividade
-* Clean code (c√≥digo limpo e organizado)
-* Sem√¢ntica do HTML
-* Estrutura√ß√£o do CSS
+Artur Balsini.
